@@ -1,17 +1,4 @@
 
 
-# IntelliJ IDEA
-.idea/
-*.iml
-out/
-target/
 
-# Logs
-*.log
 
-# Arquivos do sistema
-.DS_Store
-Thumbs.db
-
-# Arquivos compilados
-*.class
